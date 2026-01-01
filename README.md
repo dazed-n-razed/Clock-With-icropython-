@@ -11,3 +11,4 @@ Also you can play GIF files on the Pico with the Python Script I wrote to conver
 
 
 ![530495913-116ebd84-47be-4ae9-9f9d-f483fe4d30f8](https://github.com/user-attachments/assets/2c74ffd2-aa63-4f6e-95a6-305bf70a7e93)
+
